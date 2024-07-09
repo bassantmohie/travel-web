@@ -1,0 +1,41 @@
+.logo {
+  color: chocolate;
+}
+.navbar-brand{
+  font-size: 35px;
+  font-weight: bold;
+}
+.btn {
+  background-color: #fcaf17;
+  color: white;
+}
+.btn:hover {
+  background-color: #fcb017d2;
+  color: white;
+}
+section {
+  background-image: url(/images/background\ img.png);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.btn1 {
+  border-radius: 5px;
+  border-color: transparent;
+  padding: 5px;
+}
+.size {
+  font-size: 5rem;
+}
+
+.btn1:hover {
+  background-color: chocolate;
+  color: white;
+}
+.im {
+  border-radius: 10px;
+  transition: 1s;
+}
+.im:hover {
+  transform: scale(1.1);
+}
